@@ -54,7 +54,8 @@ This website is built to help Dr. Serena Blake connect with her clients and prov
 
 ##📧 Contact
 For inquiries, please reach out via the contact form (coming soon) or email: info@drserenablake.com
-![Homepage Screenshot](./public/images/homepage.png)
-![Homepage Screenshot](./public/images/homepage1.png)
-![Homepage Screenshot](./public/images/homepage2.png)
-![Homepage Screenshot](./public/images/homepage3.png)
+![Homepage Screenshot](./public/homepage.png)
+![Homepage Screenshot](./public/homepage1.png)
+![Homepage Screenshot](./public/homepage2.png)
+![Homepage Screenshot](./public/homepage3.png)
+![Homepage Screenshot](./public/homepage4.png)
